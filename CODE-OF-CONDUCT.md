@@ -32,4 +32,4 @@ Other conduct that is inappropriate for a professional audience including people
 
 
 
-We decided to go with pythons CoC since that's the languahe our program is written in. The CoC 
+We decided to go with pythons CoC since that's the languahe our program is written in. The python CoC also has a lot of details that we really agree with and they touch on keeping things professional and fear for every kind of person. 
